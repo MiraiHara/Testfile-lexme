@@ -1,0 +1,6 @@
+jflex .\example.jflex
+javac search1.java 
+กรณี version ไม่ตรง /*javac -source 1.8 -target 1.8 .\search1.java
+java search1 .\input
+
+อันที่ 2 ทำเหมือนกัน

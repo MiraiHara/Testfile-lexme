@@ -1,0 +1,13 @@
+int a,b,c;
+float d,e;
+a = b = 5;
+c = 6 ;
+if(a > b)
+{
+    c = a - bar;
+    e = d - 2.0;
+}
+else{
+    d = e + 0.6;
+    b = a + c;
+}
